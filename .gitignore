@@ -1,0 +1,33 @@
+# Dataset
+DriverDrowsinessDetection/
+data/
+
+# Model weights
+*.pth
+*.h5
+*.keras
+
+# Training artifacts
+training_curves.png
+
+# Conda / venv
+project_env/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

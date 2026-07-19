@@ -1,0 +1,15 @@
+# Deep learning (already in project_env)
+torch==2.11.0+cu128
+torchvision==0.26.0+cu128
+
+# Computer vision & face detection
+opencv-python==5.0.0.93
+mediapipe==0.10.14
+protobuf==4.25.3
+
+# Numerics
+numpy==2.5.1
+scipy==1.18.0
+
+# Visualization
+matplotlib==3.11.0
