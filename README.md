@@ -54,7 +54,7 @@ driver-drowsiness-detection/
 
 ### 1. Clone
 ```bash
-git clone https://github.com/YOUR_USERNAME/driver-drowsiness-detection.git
+git clone https://github.com/aadidevvs2007/driver-drowsiness-detection.git
 cd driver-drowsiness-detection
 ```
 
