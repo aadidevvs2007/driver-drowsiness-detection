@@ -151,5 +151,5 @@ Input (3 × 64 × 64)
 
 ## Author
 
-**Aadidev** — B.Tech AI/DS, Amrita Coimbatore | Team Parallax
+**Aadidev** — B.Tech AI/DS, Amrita Coimbatore
 
