@@ -4,12 +4,6 @@
 
 ---
 
-## Demo
-
-> *(Add a screen recording GIF here after running detect.py)*
-
----
-
 ## How It Works
 
 ```
